@@ -1,2 +1,2 @@
 # GameUpddates
-SCPF | Game updates and patches
+SCPF |--| Game Updates
